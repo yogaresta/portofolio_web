@@ -2,9 +2,15 @@ import './App.css';
 
 function Topbar() {
   return (
-   <div className="Headertop">
-      <div id='topbar'>
-       <h1>topbar</h1>
+   <div className="headertop">
+      <div className='topbar'>
+         <div className='logo'>
+            <img id='logo_img' src='./logoheader.png' />
+         </div>
+         <div className='menu'>
+            
+         </div>
+   
       </div>
    </div>
   );
