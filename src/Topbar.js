@@ -8,7 +8,6 @@ function Topbar() {
             <img id='logo_img' src='./logoheader.png' />
          </div>
          <div className='menu'>
-            
          </div>
    
       </div>
